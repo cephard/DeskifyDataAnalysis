@@ -16,11 +16,16 @@ The companies main database structure as seen below consists of six tables: `Tra
 - **Calender**
 - **Order**
 
-  ## Data Model 
+## Data Model 
 <img src="https://github.com/cephard/DeskifyDataAnalysis/blob/main/Deskify%20Dashboard%20Data%20Model.png" alt="Data Model">
 
+# Executive Summary
 
+### Overview of Findings
+Over the `4 years` that Deskify has been in business, it has achieved a profit margin of only `10.33%`, which is significantly lower than the projected profit margin of `30%`. With a revenue of `£14.7 million`, the total profit amounts to `£1.52 million`. The highest overall sales during this period occurred in January, September, and October. Binders generated the highest profit at $260,000, while copiers were the only products that incurred a loss of `£16,000`. All customer segments are contributing to substantial profits, with Copreta customers achieving the highest profit levels.
+
+## Dashboard one
 <img src="https://github.com/cephard/DeskifyDataAnalysis/blob/main/Deskify%20Dashboard2.png" alt="Dashboard 1">
 
-
+## Dashboard two
 <img src="https://github.com/cephard/DeskifyDataAnalysis/blob/main/Deskify%20Dashboard.png" alt="Dashboard 2">

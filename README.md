@@ -2,6 +2,9 @@
 ## Business Overview
 Deskify is a retail store specializing in office supplies, technology (computer accessories), and furniture. With a diverse product range tailored to both individual and business customers, Deskify has experienced significant growth over the past four years. The company is dedicated to providing high-quality office essentials, technology accessories, and furniture, with a focus on reliability, efficiency, and customer satisfaction.
 
+## Problem Statement
+Deskify currently relies on Excel to compile, analyze, and report its monthly sales and transaction data. However, this process has become increasingly cumbersome and time-consuming due to the complexity of the data and the high volume of transactions processed each month. The reporting process involves manual data entry and consolidation from multiple sources, which introduces errors and inconsistencies.
+
 ---
 
 # Data Structure & Initial Checks

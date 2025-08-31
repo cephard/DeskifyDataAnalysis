@@ -7,7 +7,7 @@ Deskify currently relies on Excel to compile, analyze, and report its monthly sa
 
 ---
 
-# Data Structure & Initial Checks
+# Data Model & Initial Checks
 The companies main database structure as seen below consists of six tables: `Transaction Fact Table`, `Product Dimention Table`, `Location Dimention Table`, `Customer Dimention Table`,`Calender Dimention Table` and `Order Dimention Table` with a consistently updating transaction table. A description of each table is as follows:
 - **Transaction**
 - **Product**
@@ -16,7 +16,7 @@ The companies main database structure as seen below consists of six tables: `Tra
 - **Calender**
 - **Order**
 
-## Data Model 
+## Entity Relation Diagram
 <img src="https://github.com/cephard/DeskifyDataAnalysis/blob/main/Deskify%20Dashboard%20Data%20Model.png" alt="Data Model">
 
 # Executive Summary
